@@ -6,4 +6,3 @@
 <p> Pasta Imagens 1 contém material usado para o video.</p>
 <p> Pastas sobre o back-end foram adicionadas apenas para consulta pois o django sempre criar o mesmo padrão.</p>
 
-<p style="color:red;">This is a paragraph.</p>
