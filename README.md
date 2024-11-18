@@ -1,8 +1,6 @@
 # Projeto_Integrador2  Desenvolvimento_Web
 
-<i style="background-color:powderblue;"> Desenvolvimento web com framework Django do alunos de Engenharia de Computação Univesp 5°Semestre</i>
-<p style="background-color:tomato;">This is a paragraph.</p>
-
+<i style= "150px"> Desenvolvimento web com framework Django do alunos de Engenharia de Computação Univesp 5°Semestre</i>
 <p> 1° versão está na pasta Cafeteria.</p>
 <p> versão final esta na pasta cafedigital. </p>
 <p> Pasta Imagens 1 contém material usado para o video.</p>
